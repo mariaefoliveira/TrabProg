@@ -154,7 +154,7 @@ public class Cliente extends JFrame {
 			decoSaida.close();
 			saida.close();
 			socket.close();
-			dispose();
+			System.exit(EXIT_ON_CLOSE);
 
 		} catch (IOException e) {
 			e.printStackTrace();
