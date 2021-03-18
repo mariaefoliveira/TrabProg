@@ -94,7 +94,7 @@ public class Cliente extends JFrame {
 			// TODO Teste enviarMensagem()
 			// Essa parte envia a mensagem para a propria tela
 
-			texto.setText("Jogou"+ ":" + msg + "\r\n");
+			texto.setText(":" + msg + "\r\n");
 
 		}
 		leitor.flush();
