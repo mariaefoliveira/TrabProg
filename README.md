@@ -1,2 +1,2 @@
-# TrabProg-part2
+# TrabProg
 Programa que está funcionando
